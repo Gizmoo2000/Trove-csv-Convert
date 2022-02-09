@@ -1,0 +1,16 @@
+﻿<Window x:Class="Trove_JSON_Convert__WPF_.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trove_JSON_Convert__WPF_"
+        mc:Ignorable="d"
+        Title="Account Info" Height="200" Width="200" Icon="/logo.png" ResizeMode="NoResize" ShowInTaskbar="False" Topmost="True" WindowStyle="ToolWindow">
+    <Grid>
+        <TextBox x:Name="account_textBox" HorizontalAlignment="Center" Margin="0,92,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="120" TabIndex="-3"/>
+        <Button x:Name="done_button" Content="Done" HorizontalAlignment="Left" Margin="80,128,0,0" VerticalAlignment="Top" Click="Done_with"/>
+        <Label x:Name="character_lable" Content="Enter nickname for this account:" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="179"/>
+        <TextBox x:Name="name_textBox" HorizontalAlignment="Center" Margin="0,59,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="120" IsReadOnly="True" BorderThickness="0,0,0,0" Focusable="False" IsTabStop="False" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+
+    </Grid>
+</Window>

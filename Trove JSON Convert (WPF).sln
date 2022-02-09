@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trove JSON Convert (WPF)", "Trove JSON Convert (WPF).csproj", "{04AD22DA-F86F-41C7-B753-C39E85FCC8A4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Trove CVS", "..\Trove CVS\Trove CVS.vdproj", "{46472BBA-8EBD-406F-B7FF-C6CB41F04692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04AD22DA-F86F-41C7-B753-C39E85FCC8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AD22DA-F86F-41C7-B753-C39E85FCC8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AD22DA-F86F-41C7-B753-C39E85FCC8A4}.Debug|x64.ActiveCfg = Debug|x64
+		{04AD22DA-F86F-41C7-B753-C39E85FCC8A4}.Debug|x64.Build.0 = Debug|x64
+		{04AD22DA-F86F-41C7-B753-C39E85FCC8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AD22DA-F86F-41C7-B753-C39E85FCC8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AD22DA-F86F-41C7-B753-C39E85FCC8A4}.Release|x64.ActiveCfg = Release|x64
+		{04AD22DA-F86F-41C7-B753-C39E85FCC8A4}.Release|x64.Build.0 = Release|x64
+		{46472BBA-8EBD-406F-B7FF-C6CB41F04692}.Debug|Any CPU.ActiveCfg = Debug
+		{46472BBA-8EBD-406F-B7FF-C6CB41F04692}.Debug|x64.ActiveCfg = Debug
+		{46472BBA-8EBD-406F-B7FF-C6CB41F04692}.Debug|x64.Build.0 = Debug
+		{46472BBA-8EBD-406F-B7FF-C6CB41F04692}.Release|Any CPU.ActiveCfg = Release
+		{46472BBA-8EBD-406F-B7FF-C6CB41F04692}.Release|x64.ActiveCfg = Release
+		{46472BBA-8EBD-406F-B7FF-C6CB41F04692}.Release|x64.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {011C447C-69E6-458D-996F-9FB81864BC69}
+	EndGlobalSection
+EndGlobal
