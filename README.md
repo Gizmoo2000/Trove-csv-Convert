@@ -17,7 +17,7 @@ NOTE: The included MSI file is a 64 bit build.
 This is a VS2022 WPF project using NET 6, C# 10 and Newtonsoft.Json. 
 It has been tested it on windows 10 and 11, it will ask you to download the “.Net Desktop Runtime 6 (x64)” from Microsoft if you do not already have it. 
 
-Thanks to Morrikan & RabidSquirrel for the info used in building this utility and the awesome work they are doing on the Dungeon Helper project. I are not affiliated with the VoK team in any way. This is just a project I build for myself and wanted to share with other users of Trove. Please do not bother Morrikan & RabidSquirrel, They are extremely busy working on the awesome DH project which we all enjoy so much. If you have any questions or problems, Please contact me at gizmoo2000@tutanota.com or DM me on Discord at Gizmoo2000.
+Thanks to Morrikan & RabidSquirrel for the information they provided for the building of this utility and the awesome work they are doing on the Dungeon Helper project. I am not affiliated with the VoK team in any way. This is just a project I build for myself and wanted to share with other users of Trove. Please do not bother Morrikan & RabidSquirrel or use their discord channel for help with this utility, They are extremely busy working on the awesome DH project which we all enjoy so much. If you have any questions or problems, Please contact me at gizmoo2000@tutanota.com or DM me on Discord at Gizmoo2000, I will be happy to help.
 
 Instructions.
 
