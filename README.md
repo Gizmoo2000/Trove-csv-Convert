@@ -27,3 +27,4 @@ Instructions.
 3a.	When the Utility encounters a new account hash during the conversion, a dialog box will pop up asking you for a nickname to use for that account. This can be anything you want to call the account. The utility will only do this one time for each account and will store the nickname in the 
 4. the box below with display the path and file name of the csv file.
 
+This project is licensed under the terms of the MIT license.
