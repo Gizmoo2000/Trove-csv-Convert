@@ -9,7 +9,7 @@ The purpose of this utility is for the user to build a spreadsheet or database f
 
 Sarlona.csv is a sample csv output file with column headers, Trove CSV (x64).msi is a x64 build install file.
 
-The output csv file is placed in the same directory as the json file that was selected to be converted. Under the Convert button it will display the output csv file name and location when it is done converting the data. Note: this utility is read only for the json file and does not make any changes to the original json file.
+The output csv file is placed in the same directory as the json file that was selected to be converted. Under the Convert button it will display the output csv file name and location when it is done converting the data. Note: this utility uses a read only function for the json file and does not make any changes to the original json file.
 
 The csv output includes all fields from the Trove json file except for the icon image, (this is a json encoded text field) and the account hash is replace with the nickname you enter the first time the program encounters a new account hash. 
 
