@@ -7,13 +7,12 @@ The Trove plugin collects all the charters inventory items across all there acco
 
 The purpose of this utility is for the user to build a spreadsheet or database front end they are familiar with, then use this utility to convert the Trove inventory from a json file format to a csv file format. Then simply import the inventory from the created csv file for their DDO accounts. (Note: This is not a link to the json inventory file for your front end, you will need to purge and reload the inventory anytime you update the Trove json file.) 
 
-Sarlona.csv is a sample csv output file with column headers, Trove CSV (x64).msi is a x64 build install file.
+Sarlona.csv is a sample csv output file with column headers, Trove CSV.msi a binary install file.
 
 The output csv file is placed in the same directory as the json file that was selected to be converted. Under the Convert button it will display the output csv file name and location when it is done converting the data. Note: this utility uses a read only function for the json file and does not make any changes to the original json file.
 
 The csv output includes all fields from the Trove json file except for the icon image, (this is a json encoded text field) and the account hash is replace with the nickname you enter the first time the program encounters a new account hash. 
 
-NOTE: The included MSI file is a 64 bit build. 
 This is a VS2022 WPF project using NET 6, C# 10 and Newtonsoft.Json. 
 It has been tested it on windows 10 and 11, it will ask you to download the “.Net Desktop Runtime 6 (x64)” from Microsoft if you do not already have it. 
 
